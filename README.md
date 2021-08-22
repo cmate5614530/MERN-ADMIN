@@ -10,10 +10,6 @@ Email: test@gmail.com
 Password: testing
 ```
 
-### 🏠 [Homepage](https://mern-admin-dashboard.herokuapp.com)
-
-### ✨ [Demo](https://mern-admin-dashboard.herokuapp.com/dashboard/)
-
 ## Install
 
 ```sh
